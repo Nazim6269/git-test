@@ -1,7 +1,6 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 const Button = () => {
-  const [coutn, setCount] = useState(0)
   return (
     <div>Button</div>
   )
