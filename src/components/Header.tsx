@@ -10,6 +10,7 @@ const Header = () => {
       This is pre commit state
       {/* this is a comment */}
       This is post commit state
+      <p>This line is written by nazim</p>
     </div>
   );
 };
