@@ -5,7 +5,7 @@ const Button = () => {
   return (
     <div>{count}
       <button onClick={() => setCount(count + 1)}>Increment</button>
-    <p>This line is added by nazimTwo</p>
+      <p>This line is added by nazimTwo</p>
     </div>
   )
 }
