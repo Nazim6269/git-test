@@ -5,7 +5,7 @@ const Header = () => {
       labore vel porro consectetur quos quibusdam nesciunt quidem! Placeat
       porro, magnam dicta enim sit laborum quis a quos unde explicabo.
       <p>I am from nazim Two branch</p>
-    </div>
+ </div>
   );
 };
 
